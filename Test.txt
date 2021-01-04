@@ -1,7 +1,0 @@
-ACDD
-<<<<<<< HEAD
-22222
-=======
-11111
->>>>>>> dadc9d45ee1f3ba5cc0a57a556e55b281cfba44d
-HHHh
